@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,SAAU,CACV,QAEF","file":"main.28221676.chunk.css","sourcesContent":["body {\n  height: 100vh;\n  padding: 0;\n  margin: 0;\n  /* background-image: linear-gradient(-180deg, #a5ff36 0%, #09ca92 100%); */\n}\n\n"]}
