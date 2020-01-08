@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "525a868193829bfc1a1071ba3eabd63b",
+    "revision": "d760907980329ff70feee02f6569541c",
     "url": "./index.html"
   },
   {
-    "revision": "659d9a8546fdc35ab01a",
-    "url": "./static/css/main.7352d99a.chunk.css"
+    "revision": "83fbc44db6d8ade5193f",
+    "url": "./static/css/main.b310fb38.chunk.css"
   },
   {
-    "revision": "edf109383fbe7cd9d8dc",
-    "url": "./static/js/2.bfbd964f.chunk.js"
+    "revision": "a67d9c208212492ccf07",
+    "url": "./static/js/2.84e80012.chunk.js"
   },
   {
     "revision": "4c058576d203d23a7e4eb9563fb6d82d",
-    "url": "./static/js/2.bfbd964f.chunk.js.LICENSE"
+    "url": "./static/js/2.84e80012.chunk.js.LICENSE"
   },
   {
-    "revision": "659d9a8546fdc35ab01a",
-    "url": "./static/js/main.7242753d.chunk.js"
+    "revision": "83fbc44db6d8ade5193f",
+    "url": "./static/js/main.a44ce2e2.chunk.js"
   },
   {
     "revision": "353824c915518b56d5bd",
@@ -42,6 +42,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6ff82861b0c4a00cc8b7fb6f12d4eb8",
     "url": "./static/media/hill.a6ff8286.svg"
+  },
+  {
+    "revision": "1fc8cc7e52b7aa0cdaf7199da431a5d5",
+    "url": "./static/media/mapLand.1fc8cc7e.svg"
+  },
+  {
+    "revision": "3bfa4a91c78b3c903e7265219c5fd3a8",
+    "url": "./static/media/mapRoad.3bfa4a91.svg"
+  },
+  {
+    "revision": "9e848a104ae120f170d595bd06cd1c11",
+    "url": "./static/media/sitting-4.9e848a10.svg"
   },
   {
     "revision": "e093564b017e69f0ecf03ac1780c434f",
