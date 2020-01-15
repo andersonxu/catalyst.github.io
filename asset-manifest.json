@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.b310fb38.chunk.css",
-    "main.js": "./static/js/main.a72383cd.chunk.js",
-    "main.js.map": "./static/js/main.a72383cd.chunk.js.map",
+    "main.js": "./static/js/main.ce71650d.chunk.js",
+    "main.js.map": "./static/js/main.ce71650d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1130748e.js",
     "runtime-main.js.map": "./static/js/runtime-main.1130748e.js.map",
-    "static/js/2.c17e7fc7.chunk.js": "./static/js/2.c17e7fc7.chunk.js",
-    "static/js/2.c17e7fc7.chunk.js.map": "./static/js/2.c17e7fc7.chunk.js.map",
+    "static/js/2.24405942.chunk.js": "./static/js/2.24405942.chunk.js",
+    "static/js/2.24405942.chunk.js.map": "./static/js/2.24405942.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.92a8f073d41936db0aa5bc2869b9eb2f.js": "./precache-manifest.92a8f073d41936db0aa5bc2869b9eb2f.js",
+    "precache-manifest.170020d79059a2daba4cabf6fd2ac134.js": "./precache-manifest.170020d79059a2daba4cabf6fd2ac134.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.b310fb38.chunk.css.map": "./static/css/main.b310fb38.chunk.css.map",
-    "static/js/2.c17e7fc7.chunk.js.LICENSE": "./static/js/2.c17e7fc7.chunk.js.LICENSE",
+    "static/js/2.24405942.chunk.js.LICENSE": "./static/js/2.24405942.chunk.js.LICENSE",
     "static/media/Catalyst-Logo_group.02535d59.svg": "./static/media/Catalyst-Logo_group.02535d59.svg",
     "static/media/buildings.bc27bc99.svg": "./static/media/buildings.bc27bc99.svg",
     "static/media/buildings_bkg.08296f41.svg": "./static/media/buildings_bkg.08296f41.svg",
@@ -21,13 +21,14 @@
     "static/media/mapLand.1fc8cc7e.svg": "./static/media/mapLand.1fc8cc7e.svg",
     "static/media/mapRoad.3bfa4a91.svg": "./static/media/mapRoad.3bfa4a91.svg",
     "static/media/sitting-4.9e848a10.svg": "./static/media/sitting-4.9e848a10.svg",
-    "static/media/sitting-7.47c8d2d6.svg": "./static/media/sitting-7.47c8d2d6.svg",
+    "static/media/sitting-7.95ef9c07.svg": "./static/media/sitting-7.95ef9c07.svg",
+    "static/media/standing-18.d81b55d3.svg": "./static/media/standing-18.d81b55d3.svg",
     "static/media/standing-19.a726a18b.svg": "./static/media/standing-19.a726a18b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1130748e.js",
-    "static/js/2.c17e7fc7.chunk.js",
+    "static/js/2.24405942.chunk.js",
     "static/css/main.b310fb38.chunk.css",
-    "static/js/main.a72383cd.chunk.js"
+    "static/js/main.ce71650d.chunk.js"
   ]
 }
